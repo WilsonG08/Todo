@@ -1,6 +1,6 @@
 # Integrantes:
-- Marlon Lalangui,
-- Wilson Guayanay,
+- Marlon Lalangui
+- Wilson Guayanay
 - Josue Salazar
 
 Aplicación de Xamarin.form ToDo
