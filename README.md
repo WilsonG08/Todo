@@ -3,7 +3,7 @@
 - Wilson Guayanay
 - Josue Salazar
 
-# Aplicación de Xamarin.form ToDo
+# Aplicación de Xamarin.form "ToDo"
    
    #Link del video explicativo:
 https://www.youtube.com/watch?v=hjO1C4fMc9I
