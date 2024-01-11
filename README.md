@@ -5,10 +5,10 @@
 
 # Aplicación de Xamarin.form "ToDo"
    
-   # Link del video explicativo:
+   - Link del video explicativo:
 https://www.youtube.com/watch?v=hjO1C4fMc9I
 
-  # ToDo funcionamiento:
+   - ToDo funcionamiento:
 Abrimos la aplicación generada:
 
 ![image](https://github.com/WilsonG08/Todo/assets/117753973/27df2fd4-5ca7-4dd7-b6ea-59e2f40c4cc4) 
